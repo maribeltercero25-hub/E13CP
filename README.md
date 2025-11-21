@@ -1,2 +1,2 @@
 # E13CP
-Proyecto en phayton para detectar las adicciones a los videojuegos
+Este repositorio guardara el Proyecto en phyton para detectar las adicciones a los videojuegos
